@@ -1,1 +1,1 @@
-print ("Deepak is learning very small giving small eggs");
+print ("Deepak is learning very slow now he is giving small-small eggs");
